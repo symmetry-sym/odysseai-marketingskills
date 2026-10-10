@@ -1,0 +1,4 @@
+interface:
+  display_name: "营销技能工具箱"
+  short_description: "覆盖营销策略、增长、内容、广告、渠道与转化率优化工作流"
+  default_prompt: "使用 $marketingskills 为这个业务制定合适的营销方案。"
